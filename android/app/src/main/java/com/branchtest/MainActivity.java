@@ -43,13 +43,10 @@ public class MainActivity extends ReactActivity {
     RNBranchModule.initSession(getIntent().getData(), this);
   }
 
+  // Override onNewIntent:
   @Override
   public void onNewIntent(Intent intent) {
     super.onNewIntent(intent);
-    if (intent != null &&
-        intent.hasExtra("branch_force_new_session") &&
-        intent.getBooleanExtra("branch_force_new_session", false)) {
-      RNBranchModule.onNewIntent(intent);
-    }
+    RNBranchModule.onNewIntent(intent);
   }
 }
