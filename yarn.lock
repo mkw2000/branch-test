@@ -7248,10 +7248,10 @@
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   "version" "17.0.2"
 
-"react-native-branch@5.4.0":
-  "integrity" "sha512-KuYpFPm6cKzUSTMOpI216w4BYP/5E4g8MH5a/4/xaWPqVqZmeoQS89/GqDxg7YwOG70YMtwdSobulh/wrv2tMw=="
-  "resolved" "https://registry.npmjs.org/react-native-branch/-/react-native-branch-5.4.0.tgz"
-  "version" "5.4.0"
+"react-native-branch@5.9.0":
+  "integrity" "sha512-sgKM2Y7LMAKLFX39qpzuyCEfOwOTwgg+Cg563usLxSggK44js2xojMk+Il/DQqmtRFtR0F+eVILGgfwn4icfIA=="
+  "resolved" "https://registry.npmjs.org/react-native-branch/-/react-native-branch-5.9.0.tgz"
+  "version" "5.9.0"
 
 "react-native-codegen@^0.71.5":
   "integrity" "sha512-rfsuc0zkuUuMjFnrT55I1mDZ+pBRp2zAiRwxck3m6qeGJBGK5OV5JH66eDQ4aa+3m0of316CqrJDRzVlYufzIg=="
